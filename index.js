@@ -6,14 +6,12 @@ return string.toUpperCase()
 }
 function sayHiToGrandma (string) {
   if (string.toLowerCase()===lowercase)
-  return ("I can\'t hear you!")
-  else if (string.toUpperCase()=== uppercase)
-  return ("YES INDEED!")
+  return ("I can\'t hear you!")}
+  else if (string.toUpperCase()=== uppercase){
+  return ("YES INDEED!")}
+  else ()
 }
-function sayHiToGrandma (STRING){
-  var uppercase = "Hello!"
-  uppercase.toUpperCase()=== uppercase
-  return ("Yes Indeed!")
+
 }
 function sayHiToGrandma (STRING){
   var mixedCase = "I love you, Grandma"
