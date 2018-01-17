@@ -5,7 +5,7 @@ function shout (string){
 return string.toUpperCase()
 }
 function sayHiToGrandma (string) {
-  var lowercase = "hello!"
+  if (var lowercase = "hello!"
   lowercase.toLowerCase()===lowercase 
   return ("I can\'t hear you!")
 }
