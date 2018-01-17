@@ -18,6 +18,6 @@ function sayHiToGrandma (STRING){
   var mixedCase = "I love you, Grandma"
 }
 function logShout(string) {
-  string.toUpperCase()
+  string.toUpperCase()===uppercase 
   console.log (string)
 }
