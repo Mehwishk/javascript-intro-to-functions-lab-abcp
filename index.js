@@ -5,9 +5,10 @@ function shout (string){
 return string.toUpperCase()
 }
 function sayHiToGrandma (string) {
-  if (var lowercase = "hello!"
-  lowercase.toLowerCase()===lowercase 
+  if (string.toLowerCase()===lowercase)
   return ("I can\'t hear you!")
+  else if (string.toUpperCase()=== uppercase)
+  return ("YES INDEED!")
 }
 function sayHiToGrandma (STRING){
   var uppercase = "Hello!"
