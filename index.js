@@ -7,7 +7,7 @@ return string.toUpperCase()
 function sayHiToGrandma (string) {
   var lowercase = "hello!"
   lowercase.toLowerCase()===lowercase 
-  return ("I can't hear you!")
+  return ("I can\'t hear you!")
 }
 function sayHiToGrandma (STRING){
   var uppercase = "Hello!"
