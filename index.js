@@ -5,11 +5,13 @@ function shout (string){
 return string.toUpperCase()
 }
 function sayHiToGrandma (string) {
-  if (string.toLowerCase()===lowercase)
+  if (string===string.toLowerCase())
   return ("I can\'t hear you!")}
-  else if (string.toUpperCase()=== uppercase){
+   else (string=== string.toUpperCase()){
   return ("YES INDEED!")}
-  else ()
+  else (string == "I love you, Grandma"){
+    return "I love you, too"
+  }
 }
 
 }
