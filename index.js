@@ -22,6 +22,6 @@ function logShout(string) {
   console.log (string)
 }
 function logWhisper(string) {
-  var string = string.toLowerCase();
+  var logWhisper = string.toLowerCase();
   console.log (string)
 }
