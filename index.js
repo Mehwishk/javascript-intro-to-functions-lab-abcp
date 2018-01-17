@@ -17,3 +17,6 @@ function sayHiToGrandma (STRING){
 function sayHiToGrandma (STRING){
   var mixedCase = "I love you, Grandma"
 }
+function logShout(string) {
+  
+}
